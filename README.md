@@ -1,5 +1,3 @@
-# CS5200_Project_1
- 
 # Bird Strike Incidents Database Project
 
 ## Project Overview
