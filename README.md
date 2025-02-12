@@ -23,14 +23,14 @@ The FAA needs a database to track bird-strike incidents, including details such 
 - Include all necessary entities, attributes, and relationships with multiplicities and labels.
 
 #### UML Class Diagram
-![UML Class Diagram](UML Diagram.jpg)
+![UML Class Diagram](UMLDiagram.jpg)
 
 #### Part 2: Logical Modeling 
 - Convert the UML Class Diagram into a Relational Schema.
 - Mark primary and foreign keys, create junction tables as needed, and specify data types.
 
 #### Relational Schema
-![Relational Schema](Relational Schema.jpg)
+![Relational Schema](RelationalSchema.jpg)
 
 #### Part 3: Database Realization 
 - Implement the Relational Schema in a SQLite database using Jupyter Notebook.
